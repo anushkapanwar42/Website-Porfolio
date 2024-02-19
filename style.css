@@ -184,6 +184,9 @@ video {
         padding-top: 2%;
 
     }
+     #about{
+        padding-top: 5%;
+    }
 
     .home-page {
         flex-direction: column;
@@ -205,7 +208,7 @@ video {
     }
 
     section {
-        padding-top: 20%;
+        padding-top: 25%;
     }
 
     ul li {
