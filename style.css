@@ -170,8 +170,11 @@ video {
     background-color: wheat;
 }
 
-.social_media_sub a {
+.social_media_sub {
     flex-direction: row;
+    width: 3%;
+    height: 3%;
+}
 }
 
 @media screen and (max-width:600px) {
@@ -240,6 +243,10 @@ video {
         font-size: large;
         font-weight: bolder;
     }
+    .social_media_sub img {
+        width: 5%;
+        height: 5%;
+}
 
 
 }
