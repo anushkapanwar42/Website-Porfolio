@@ -1,2 +1,2 @@
 # Website-Porfolio
-Made the responsive website with HTML and CSS.
+Made a responsive website with HTML and CSS.
