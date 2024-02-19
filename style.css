@@ -181,13 +181,10 @@ video {
     }
 
     .about {
-        padding-top: 2%;
-
-    }
-     #about{
         padding-top: 5%;
-    }
 
+    }
+    
     .home-page {
         flex-direction: column;
     }
