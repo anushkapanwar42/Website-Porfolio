@@ -200,7 +200,9 @@ video {
         font-weight: 100;
 
     }
-
+    menu li{
+        padding: 2%;
+    }
 
     section {
         padding-top: 20%;
