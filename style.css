@@ -178,7 +178,7 @@ video {
     height: 3%;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:700px) {
     .img_align {
         height: 80%;
         width: 80%;
